@@ -1,0 +1,12 @@
+[package]
+name = "maildirtools"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+mailparse = "0.14"
+base64 = "0.21"
+encoding_rs = "0.8"
+regex = "1.10"
+chrono = "0.4"
+
