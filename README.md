@@ -1,7 +1,7 @@
 MaildirTools - Email analysis and conversion utilities for Maildir and mbox formats.
 
-Copyright (C) 2026 Philippe TEMESI - https://www.tems.be - GitHub: @philtems
-License: GNU General Public License v3.0
+Copyright (C) 2026 Philippe TEMESI - https://www.tems.be
+
 
 OVERVIEW:
 MaildirTools is a Rust-based command-line tool that provides two main functionalities:
@@ -123,8 +123,6 @@ Philippe TEMESI
 Website: https://www.tems.be
 GitHub: @philtems
 Repository: https://github.com/philtems/maildirtools
-
-    Open a Pull Request
 
 SUPPORT:
 If you encounter any issues or have questions, please open an issue on GitHub:
